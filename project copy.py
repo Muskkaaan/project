@@ -183,9 +183,6 @@ def display_similarity_analysis(similarity_scores):
         
 # Main function
 def main():
-
-    st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-    
     st.title("ANONYMOUS EXAM PORTAL")
 
 if __name__ == "_main_":
